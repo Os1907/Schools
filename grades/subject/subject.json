@@ -2,32 +2,32 @@
   "subject": [
     {
       "name": "Math",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/subjects/math.webp",
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fsubjects/math.webp",
       "id": "9ed55700-9020-4582-912e-01f2729fac1b"
     },
     {
       "name": "Science",
-       "imageUrl": "https://os1907.github.io/Schools/Imgaes/subjects/science.webp",
+       "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fsubjects/science.webp",
       "id": "4e503374-b490-4ef7-99ab-fb00653979b7"
     },
     {
       "name": "English",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/subjects/english.webp",
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fsubjects/english.webp",
       "id": "9ab92f5a-59f3-4de8-ae9d-4f5a5cc49e48"
     },
     {
       "name": "Arabic",
-       "imageUrl": "https://os1907.github.io/Schools/Imgaes/subjects/arabic.webp",
+       "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fsubjects/arabic.webp",
       "id": "df0f3226-2a42-45b9-9161-8605a0d04bc8"
     },
     {
       "name": "Art",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/subjects/art.webp",
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fsubjects/art.webp",
       "id": "9c89728a-7d13-426b-adfa-aa2703ed69b9"
     },
     {
       "name": "Social Studies",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/subjects/social.webp",
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fsubjects/social.webp",
       "id": "abf24031-daf8-4d7e-a657-64ee37466952"
     }
   ]
