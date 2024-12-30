@@ -5,13 +5,13 @@
       "grades": [
         {
           "name": "1 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/Elementary.webp"    },
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/Elementary.webp"    },
         {
           "name": "2 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/Elementary.webp"      },
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/Elementary.webp"      },
         {
           "name": "3 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/Elementary.webp"  }
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/Elementary.webp"  }
       ]
     },
     {
@@ -19,13 +19,13 @@
       "grades": [
         {
           "name": "7 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/MiddleSchool.webp"    },
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/MiddleSchool.webp"    },
         {
           "name": "8 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/MiddleSchool.webp"    },
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/MiddleSchool.webp"    },
         {
           "name": "9 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/MiddleSchool.webp"  }
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/MiddleSchool.webp"  }
       ]
     },
     {
@@ -33,10 +33,10 @@
       "grades": [
         {
           "name": "10 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/HighSchool.webp" },
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/HighSchool.webp" },
         {
           "name": "11 grade",
-          "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/HighSchool.webp"  },
+          "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fGrade/HighSchool.webp"  },
         {
           "name": "12 grade",
           "imageUrl": "https://os1907.github.io/Schools/Imgaes/Grade/HighSchool.webp"     }
