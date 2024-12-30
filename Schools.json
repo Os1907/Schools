@@ -4,24 +4,25 @@
     {
       "id": 113213123,
       "name": "Governmental",
-      "imageUrl":"https://os1907.github.io/Schools/Imgaes/Schools/gov.webp"},
+      "imageUrl":"https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fSchools/gov.webp"
+    },
     {
       "id": 2564564,
       "name": "American",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/Schools/am.webp"
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fSchools/am.webp"
     },
     {
       "id": 321551456654,
       "name": "British",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/Schools/bri.webp" },
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fSchools/bri.webp" },
     {
       "id": 42205855220322,
       "name": "IG Schools",
-      "imageUrl":"https://os1907.github.io/Schools/Imgaes/Schools/1-_15_.webp" },
+      "imageUrl":"https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fSchools/1-_15_.webp" },
     {
       "id": 522222222222,
       "name": "Experimental",
-      "imageUrl": "https://os1907.github.io/Schools/Imgaes/Schools/ex.webp"
+      "imageUrl": "https://dev.depowebeg.com:2083/cpsess7379485216/viewer/home2%2fdevdepo%2fpublic_html%2fsophomore%2fimages%2fSchools/ex.webp"
     }
   ]
 }
