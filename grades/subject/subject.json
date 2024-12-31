@@ -2,32 +2,32 @@
   "subject": [
     {
       "name": "Math",
-      "imageUrl": "images/subjects/math.webp",
+      "imageUrl": "/images/subjects/math.webp",
       "id": "9ed55700-9020-4582-912e-01f2729fac1b"
     },
     {
       "name": "Science",
-       "imageUrl": "images/subjects/science.webp",
+       "imageUrl": "/images/subjects/science.webp",
       "id": "4e503374-b490-4ef7-99ab-fb00653979b7"
     },
     {
       "name": "English",
-      "imageUrl": "images/subjects/english.webp",
+      "imageUrl": "/images/subjects/english.webp",
       "id": "9ab92f5a-59f3-4de8-ae9d-4f5a5cc49e48"
     },
     {
       "name": "Arabic",
-       "imageUrl": "images/subjects/arabic.webp",
+       "imageUrl": "/images/subjects/arabic.webp",
       "id": "df0f3226-2a42-45b9-9161-8605a0d04bc8"
     },
     {
       "name": "Art",
-      "imageUrl": "images/subjects/art.webp",
+      "imageUrl": "/images/subjects/art.webp",
       "id": "9c89728a-7d13-426b-adfa-aa2703ed69b9"
     },
     {
       "name": "Social Studies",
-      "imageUrl": "images/subjects/social.webp",
+      "imageUrl": "/images/subjects/social.webp",
       "id": "abf24031-daf8-4d7e-a657-64ee37466952"
     }
   ]
