@@ -34,15 +34,15 @@
         "name": "Preparatory School",
         "grades": [
           {
-            "name": "1st Prep",
+            "name": "1st Preparatory",
             "imageUrl": "/images/Grade/MiddleSchool.webp"
           },
           {
-            "name": "2st Prep",
+            "name": "2st Preparatory",
             "imageUrl": "/images/Grade/MiddleSchool.webp"
           },
           {
-            "name": "3rd Prep",
+            "name": "3rd Preparatory",
             "imageUrl": "/images/Grade/MiddleSchool.webp"
           }
         ]
@@ -51,15 +51,15 @@
         "name": "Secondary School",
         "grades": [
           {
-            "name": "10th grade",
+            "name": "1st Secondary",
             "imageUrl": "/images/Grade/HighSchool.webp"
           },
           {
-            "name": "11th grade",
+            "name": "2st Secondary",
             "imageUrl": "/images/Grade/HighSchool.webp"
           },
           {
-            "name": "12th grade",
+            "name": "3rd Secondary",
             "imageUrl": "/images/Grade/HighSchool.webp"
           }
         ]
