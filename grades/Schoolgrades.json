@@ -1,46 +1,124 @@
 {
-  "Schoolgrades": [
-    {
-      "name": "Elementary",
-      "grades": [
-        {
-          "name": "1 grade",
-          "imageUrl": "/images/Grade/Elementary.webp"    },
-        {
-          "name": "2 grade",
-          "imageUrl": "/images/Grade/Elementary.webp"      },
-        {
-          "name": "3 grade",
-          "imageUrl": "/images/Grade/Elementary.webp"  }
-      ]
-    },
-    {
-      "name": "Middle School",
-      "grades": [
-        {
-          "name": "7 grade",
-          "imageUrl": "/images/Grade/MiddleSchool.webp"    },
-        {
-          "name": "8 grade",
-          "imageUrl": "/images/Grade/MiddleSchool.webp"    },
-        {
-          "name": "9 grade",
-          "imageUrl": "/images/Grade/MiddleSchool.webp"  }
-      ]
-    },
-    {
-      "name": "High School",
-      "grades": [
-        {
-          "name": "10 grade",
-          "imageUrl": "/images/Grade/HighSchool.webp" },
-        {
-          "name": "11 grade",
-          "imageUrl": "/images/Grade/HighSchool.webp"  },
-        {
-          "name": "12 grade",
-          "imageUrl": "/images/Grade/HighSchool.webp"     }
-      ]
-    }
-  ]
+  "en": {
+    "Schoolgrades": [
+      {
+        "name": "Elementary",
+        "grades": [
+          {
+            "name": "1st grade",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "2nd grade",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "3rd grade",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          }
+        ]
+      },
+      {
+        "name": "Middle School",
+        "grades": [
+          {
+            "name": "7th grade",
+            "imageUrl": "/images/Grade/MiddleSchool.webp"
+          },
+          {
+            "name": "8th grade",
+            "imageUrl": "/images/Grade/MiddleSchool.webp"
+          },
+          {
+            "name": "9th grade",
+            "imageUrl": "/images/Grade/MiddleSchool.webp"
+          }
+        ]
+      },
+      {
+        "name": "High School",
+        "grades": [
+          {
+            "name": "10th grade",
+            "imageUrl": "/images/Grade/HighSchool.webp"
+          },
+          {
+            "name": "11th grade",
+            "imageUrl": "/images/Grade/HighSchool.webp"
+          },
+          {
+            "name": "12th grade",
+            "imageUrl": "/images/Grade/HighSchool.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "ar": {
+    "Schoolgrades": [
+      {
+        "name": "الابتدائية",
+        "grades": [
+          {
+            "name": "الصف الأول الابتدائي",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "الصف الثاني الابتدائي",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "الصف الثالث الابتدائي",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+{
+            "name": "الصف الرابع الابتدائي",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "الصف الخامس الابتدائي",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "الصف السادس الابتدائي",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          }
+        ]
+      },
+      {
+        "name": "الآعدادية",
+        "grades": [
+          {
+            "name": "الصف الآول الآعدادي",
+            "imageUrl": "/images/Grade/MiddleSchool.webp"
+          },
+          {
+            "name": "الصف الثاني الآعدادي",
+            "imageUrl": "/images/Grade/MiddleSchool.webp"
+          },
+          {
+            "name": "الصف الثالث الآعدادي ",
+            "imageUrl": "/images/Grade/MiddleSchool.webp"
+          }
+        ]
+      },
+      {
+        "name": " الثانوية العامة ",
+        "grades": [
+          {
+           "name": "الصف الآول الثانوي",
+            "imageUrl": "/images/Grade/HighSchool.webp"
+          },
+          {
+           "name": "الصف الثاني الثانوي",
+            "imageUrl": "/images/Grade/HighSchool.webp"
+          },
+          {
+           "name": "الصف الثالث الثانوي",
+            "imageUrl": "/images/Grade/HighSchool.webp"
+          }
+        ]
+      }
+    ]
+  }
 }
