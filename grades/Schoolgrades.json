@@ -1,35 +1,35 @@
 {
   "en": {
     "Schoolgrades": [
-      {
-        "name": "Elementary",
-        "grades": [
-          {
-            "name": "1st grade",
-            "imageUrl": "/images/Grade/Elementary.webp"
-          },
-          {
-            "name": "2nd grade",
-            "imageUrl": "/images/Grade/Elementary.webp"
-          },
-          {
-            "name": "3rd grade",
-            "imageUrl": "/images/Grade/Elementary.webp"
-          }
-          {
-            "name": "4st grade",
-            "imageUrl": "/images/Grade/Elementary.webp"
-          },
-          {
-            "name": "5nd grade",
-            "imageUrl": "/images/Grade/Elementary.webp"
-          },
-          {
-            "name": "6rd grade",
-            "imageUrl": "/images/Grade/Elementary.webp"
-          }
-        ]
-      },
+     {
+  "name": "Elementary",
+  "grades": [
+    {
+      "name": "1st grade",
+      "imageUrl": "/images/Grade/Elementary.webp"
+    },
+    {
+      "name": "2nd grade",
+      "imageUrl": "/images/Grade/Elementary.webp"
+    },
+    {
+      "name": "3rd grade",
+      "imageUrl": "/images/Grade/Elementary.webp"
+    },
+    {
+      "name": "4th grade",
+      "imageUrl": "/images/Grade/Elementary.webp"
+    },
+    {
+      "name": "5th grade",
+      "imageUrl": "/images/Grade/Elementary.webp"
+    },
+    {
+      "name": "6th grade",
+      "imageUrl": "/images/Grade/Elementary.webp"
+    }
+  ]
+},
       {
         "name": "Middle School",
         "grades": [
