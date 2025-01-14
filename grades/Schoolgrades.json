@@ -16,6 +16,18 @@
             "name": "3rd grade",
             "imageUrl": "/images/Grade/Elementary.webp"
           }
+          {
+            "name": "4st grade",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "5nd grade",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          },
+          {
+            "name": "6rd grade",
+            "imageUrl": "/images/Grade/Elementary.webp"
+          }
         ]
       },
       {
