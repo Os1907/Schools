@@ -34,15 +34,15 @@
         "name": "Preparatory School",
         "grades": [
           {
-            "name": "7th grade",
+            "name": "1st Prep",
             "imageUrl": "/images/Grade/MiddleSchool.webp"
           },
           {
-            "name": "8th grade",
+            "name": "2st Prep",
             "imageUrl": "/images/Grade/MiddleSchool.webp"
           },
           {
-            "name": "9th grade",
+            "name": "3rd Prep",
             "imageUrl": "/images/Grade/MiddleSchool.webp"
           }
         ]
