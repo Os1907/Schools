@@ -31,7 +31,7 @@
   ]
 },
       {
-        "name": "Middle School",
+        "name": "Preparatory School",
         "grades": [
           {
             "name": "7th grade",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "name": "High School",
+        "name": "Secondary School",
         "grades": [
           {
             "name": "10th grade",
